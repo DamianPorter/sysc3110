@@ -24,11 +24,11 @@ public class AddressBook {
 	public static void main(String args[]){
 		
 		System.out.println("Address Book");	
-		AddressBook book = new AddressBook();
-		BuddyInfo b = new BuddyInfo("Scott", "Toronto", 4);
+		//AddressBook book = new AddressBook();
+		//BuddyInfo b = new BuddyInfo("Scott", "Toronto", 4);
 		
-		book.addBuddy(b);
-		book.removeBuddy(b);
+		//book.addBuddy(b);
+		//book.removeBuddy(b);
 		
 	}
 	
