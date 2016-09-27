@@ -31,6 +31,7 @@ public class AddressBook {
 		book.removeBuddy(b);
 		
 		System.out.println("Changes!! :O");
+		System.out.println("More Changes but this time on gitHub website.");
 		
 	}
 	
